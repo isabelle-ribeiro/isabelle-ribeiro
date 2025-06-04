@@ -14,4 +14,4 @@
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO)
-[![Lattes](https://img.shields.io/badge/Lattes-0073B1?style=for-the-badge)](https://lattes.cnpq.br/SEU_ID_LATTES)
+[![Lattes](https://img.shields.io/badge/Lattes-0073B1?style=for-the-badge)](https://lattes.cnpq.br/8178800471109266)
