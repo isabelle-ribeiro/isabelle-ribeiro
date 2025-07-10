@@ -1,9 +1,8 @@
 ## Isabelle Ribeiro
 
 <div align="stretch">
-  <img src="https://github-readme-stats.vercel.app/api?username=isabelle-ribeiro&show_icons=true&theme=midnight-purple" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelle-ribeiro&layout=compact&theme=midnight-purple&card_width=420" />
-</div> 
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
